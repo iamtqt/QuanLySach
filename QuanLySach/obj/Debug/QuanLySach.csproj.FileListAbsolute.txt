@@ -1,0 +1,123 @@
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\ApplicationInsights.config
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\csc.exe
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\vbc.exe
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\QuanLySach.dll.config
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\QuanLySach.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\QuanLySach.pdb
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Newtonsoft.Json.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Web.Http.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\Newtonsoft.Json.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Web.Http.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.xml
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\obj\Debug\QuanLySach.dll
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\Hutech\LabThucHanh\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\ApplicationInsights.config
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\csc.exe
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\vbc.exe
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\QuanLySach.dll.config
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\QuanLySach.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\QuanLySach.pdb
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Newtonsoft.Json.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Web.Http.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\Newtonsoft.Json.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Web.Http.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.xml
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\obj\Debug\QuanLySach.dll
+C:\DuLieu\MVC 5\LabThucHanh\Lab07API\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+F:\QuanLySach\QuanLySach\bin\ApplicationInsights.config
+F:\QuanLySach\QuanLySach\bin\roslyn\csc.exe
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QuanLySach\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QuanLySach\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+F:\QuanLySach\QuanLySach\bin\roslyn\vbc.exe
+F:\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe
+F:\QuanLySach\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+F:\QuanLySach\QuanLySach\bin\QuanLySach.dll.config
+F:\QuanLySach\QuanLySach\bin\QuanLySach.dll
+F:\QuanLySach\QuanLySach\bin\QuanLySach.pdb
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.Agent.Intercept.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\QuanLySach\QuanLySach\bin\Newtonsoft.Json.dll
+F:\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.dll
+F:\QuanLySach\QuanLySach\bin\System.Web.Http.dll
+F:\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.dll
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.DependencyCollector.xml
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.Web.xml
+F:\QuanLySach\QuanLySach\bin\Microsoft.AI.WindowsServer.xml
+F:\QuanLySach\QuanLySach\bin\Microsoft.ApplicationInsights.xml
+F:\QuanLySach\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\QuanLySach\QuanLySach\bin\Newtonsoft.Json.xml
+F:\QuanLySach\QuanLySach\bin\System.Net.Http.Formatting.xml
+F:\QuanLySach\QuanLySach\bin\System.Web.Http.xml
+F:\QuanLySach\QuanLySach\bin\System.Web.Http.WebHost.xml
+F:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+F:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.dll
+F:\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
